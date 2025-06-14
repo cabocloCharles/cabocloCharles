@@ -2,11 +2,10 @@
 
 - 🌱 Me chamo Felipe Brito
 
-- 👨‍💻 Atualmente estou aprendendo C#, fazendo projetinhos basicos e registrando eles aqui no github
+- 👨‍💻 Atualmente estou aprendendo C#, fazendo projetos basicos e registrando eles aqui no github
 
 - 📕 Aprendendo WPF/Windows Forms
 
-- 🧑 Pronomes: Ele/Dele
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
 
